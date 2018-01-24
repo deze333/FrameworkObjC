@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E52A8F28201852AE0043BB75 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		E5CC78AB201812850032D645 /* FrameworkObjC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FrameworkObjC.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5CC78AE201812850032D645 /* FrameworkObjC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FrameworkObjC.h; sourceTree = "<group>"; };
 		E5CC78AF201812850032D645 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -36,6 +37,7 @@
 		E5CC78A1201812850032D645 = {
 			isa = PBXGroup;
 			children = (
+				E52A8F28201852AE0043BB75 /* README.md */,
 				E5CC78AD201812850032D645 /* FrameworkObjC */,
 				E5CC78AC201812850032D645 /* Products */,
 			);
